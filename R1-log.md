@@ -11,7 +11,15 @@
     Predicting the Test set results
     Visualising the Training set
     Visualising the Test set
+    
 ## Day 3-
     Fitting Multiple Regression
     Backward Elimination with P-values
     Backward Elimination with P-values and Adjusted R Squared
+    
+## Day 4-
+    Fitting Polynomial Linear Regression
+    Visualising the Polynomial Regression Results
+    Predicting a new result with Linear Regression
+    Predicting a new result with Polynomial Regression
+    Made a Template for Regression
