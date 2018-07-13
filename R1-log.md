@@ -8,9 +8,9 @@
       
 ## Day 2-
     Fitting Simple Linear Regression to the Training Set
-    Predicting the Test set results
-    Visualising the Training set
-    Visualising the Test set
+    Predicted the Test set results
+    Visualised the Training set
+    Visualised the Test set
     
 ## Day 3-
     Fitting Multiple Regression
