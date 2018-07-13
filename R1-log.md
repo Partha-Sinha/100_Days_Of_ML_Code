@@ -26,9 +26,8 @@
   
  ## Day 5-
     Fitting Support Vector Regression
-    Visualising Support Vector Regression Results
+    Visualised Support Vector Regression Results
     Predicting result with Support Vector Regression
     Fitting Decision Tree Regression
-    Visualising Decision Tree Regression Results
+    Visualised Decision Tree Regression Results
     Predicting result with Decision Tree Regression
-    
