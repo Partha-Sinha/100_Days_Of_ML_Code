@@ -19,15 +19,15 @@
     
 ## Day 4-
     Fitting Polynomial Linear Regression
-    Visualising the Polynomial Regression Results
-    Predicting a new result with Linear Regression
-    Predicting a new result with Polynomial Regression
+    Visualised the Polynomial Regression Results
+    Predicted a new result with Linear Regression
+    Predicted a new result with Polynomial Regression
     Made a Template for Regression
   
  ## Day 5-
     Fitting Support Vector Regression
     Visualised Support Vector Regression Results
-    Predicting result with Support Vector Regression
+    Predicted result with Support Vector Regression
     Fitting Decision Tree Regression
     Visualised Decision Tree Regression Results
-    Predicting result with Decision Tree Regression
+    Predicted result with Decision Tree Regression
