@@ -23,3 +23,12 @@
     Predicting a new result with Linear Regression
     Predicting a new result with Polynomial Regression
     Made a Template for Regression
+  
+ ## Day 5-
+    Fitting Support Vector Regression
+    Visualising Support Vector Regression Results
+    Predicting result with Support Vector Regression
+    Fitting Decision Tree Regression
+    Visualising Decision Tree Regression Results
+    Predicting result with Decision Tree Regression
+    
