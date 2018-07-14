@@ -31,3 +31,7 @@
     Fitting Decision Tree Regression
     Visualised Decision Tree Regression Results
     Predicted result with Decision Tree Regression
+## Day 6-
+    Fitting Random Forest Regression
+    Visualised Random Forest Regression Results
+    Predicted result with Random Forest Regression
