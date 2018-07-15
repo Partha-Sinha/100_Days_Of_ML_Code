@@ -36,3 +36,13 @@
     Fitting Random Forest Regression
     Visualised Random Forest Regression Results
     Predicted result with Random Forest Regression
+    
+## Day 7-
+    Revised all the Regression Technique 
+    Predicted a new result with Polynomial Regression
+    Predicted result with Decision Tree Regression
+    Predicted result with Random Forest Regression
+
+
+
+    
