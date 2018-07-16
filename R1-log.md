@@ -46,7 +46,7 @@
  ## Day 8-
     Went through R-Squared
     Went through Adjusted R-Squared
-    Understood classificaton method
+    Understood classification method
         - Logistic Regression
 
 
