@@ -42,6 +42,12 @@
     Predicted a new result with Polynomial Regression
     Predicted result with Decision Tree Regression
     Predicted result with Random Forest Regression
+    
+ ## Day 8-
+    Went through R-Squared
+    Went through Adjusted R-Squared
+    Understood classificaton method
+        - Logistic Regression
 
 
 
