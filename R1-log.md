@@ -49,6 +49,9 @@
     Understood classification method
         - Logistic Regression
 
-
-
+## Day 8-
+    Fitting Logistic Regression
+    Visualised Logistic Regression Results (using matplotlib and mxltend)
+    Predicted result with Logistic Regression
+    Made Confusion Matrix
     
