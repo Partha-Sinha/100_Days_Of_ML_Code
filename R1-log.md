@@ -54,4 +54,6 @@
     Visualised Logistic Regression Results (using matplotlib and mxltend)
     Predicted result with Logistic Regression
     Made Confusion Matrix
-    
+    Fitting K-NN
+    Visualised K-NN Results (using matplotlib and mxltend)
+    Predicted result with K-NN
