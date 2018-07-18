@@ -60,9 +60,9 @@
 
 ## Day 10-
     Fitting SVM
-    Visualised SVM (using matplotlib and mxltend)
     Predicted result with SVM
-    Made Confusion Matrix
+    Visualised SVM (using matplotlib and mxltend)
     Fitting Kernel-SVM
-    Visualised Kernel-SVM Results (using matplotlib and mxltend)
     Predicted result with Kernel-SVM
+    Visualised Kernel-SVM Results (using matplotlib and mxltend)
+    Made Confusion Matrix
