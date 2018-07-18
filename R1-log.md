@@ -57,3 +57,12 @@
     Fitting K-NN
     Visualised K-NN Results (using matplotlib and mxltend)
     Predicted result with K-NN
+
+## Day 10-
+    Fitting SVM
+    Visualised SVM (using matplotlib and mxltend)
+    Predicted result with SVM
+    Made Confusion Matrix
+    Fitting Kernel-SVM
+    Visualised Kernel-SVM Results (using matplotlib and mxltend)
+    Predicted result with Kernel-SVM
