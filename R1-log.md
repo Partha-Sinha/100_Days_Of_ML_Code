@@ -66,3 +66,15 @@
     Predicted result with Kernel-SVM
     Visualised Kernel-SVM Results (using matplotlib and mxltend)
     Made Confusion Matrix
+  
+## Day 11-
+    Fitting Naive Bayes Classification
+    Predicted result with Naive Bayes Classification
+    Visualised Naive Bayes Classification Results (using matplotlib and mxltend)
+    Fitting Decision Tree Classification
+    Predicted result with Decision Tree Classification
+    Visualised Decision Tree Classification Results (using matplotlib and mxltend)
+    Fitting Random Forest Classification
+    Predicted result with Random Forest Classification
+    Visualised Random Forest Classification Results (using matplotlib and mxltend)
+    Made Confusion Matrix for all the above predictions
