@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfMLCode Challenge
+# I've joined the #100DaysOfMLCode Challenge ##100DaysOfCode
 
 ## Motivation
 
