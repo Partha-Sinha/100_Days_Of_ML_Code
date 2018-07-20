@@ -78,3 +78,11 @@
     Predicted result with Random Forest Classification
     Visualised Random Forest Classification Results (using matplotlib and mxltend)
     Made Confusion Matrix for all the above predictions
+    
+## Day 12-
+    Studied:
+        False Positives & False Negatives
+        Confusion Matrix
+        Accuracy Paradox
+        Cap Curve
+        Cap Curve Analysis
