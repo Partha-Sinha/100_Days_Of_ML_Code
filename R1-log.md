@@ -86,3 +86,11 @@
         Accuracy Paradox
         Cap Curve
         Cap Curve Analysis
+        
+## Day 13-
+    Studied:
+        Adjusted R-Squared
+        Support Vector Regression
+        Naive Bayes Classification
+        
+        
