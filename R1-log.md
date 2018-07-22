@@ -93,4 +93,9 @@
         Support Vector Regression
         Naive Bayes Classification
         
+ ## Day 14-
+       Studied:
+        K-Means Clustering
+        Hierarchical Clustering
+        
         
