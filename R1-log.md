@@ -94,8 +94,11 @@
         Naive Bayes Classification
         
  ## Day 14-
-       Studied:
+     Studied:
         K-Means Clustering
         Hierarchical Clustering
         
-        
+ ## Day 15-
+     Used the elbow method to find the optimal number of cluster
+     Applied K-Means Clustering to the dataset
+     Visualised the Clusters 
