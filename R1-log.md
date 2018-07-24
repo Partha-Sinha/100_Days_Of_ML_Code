@@ -104,6 +104,6 @@
     Visualised the Clusters 
 
 ## Day 16-
-   Used the dendrogram to find the optimal number of clusters
-   Fitted and applied Hierarchical Clustering to the dataset
-   Visualised the Clusters 
+    Used the dendrogram to find the optimal number of clusters
+    Fitted and applied Hierarchical Clustering to the dataset
+    Visualised the Clusters 
