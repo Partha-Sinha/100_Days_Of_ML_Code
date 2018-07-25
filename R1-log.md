@@ -107,3 +107,8 @@
     Used the dendrogram to find the optimal number of clusters
     Fitted and applied Hierarchical Clustering to the dataset
     Visualised the Clusters 
+  
+## Day 17-
+    Imported datasets for Apriori and Eclat Algorithms respectively
+    Trained the datasets for Apriori and Eclat Algorithms respectively
+    Visualized and fitted the results for Apriori and Eclat Algorithms respectively
