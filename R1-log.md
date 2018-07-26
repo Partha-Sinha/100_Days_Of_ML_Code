@@ -116,7 +116,7 @@
 ## Day 18-
     Studied:
         The Multi Armed Bandid Problem
-    Implemented:
-        Imported datasets for Upper Confidence Bound
-        Hard coded the UCB algorithm and implemented it
+    Implemented (Click through rate optimization problem):
+        Imported datasets for Upper Confidence Bound & Thompson Sampling algorithm
+        Hard coded the UCB & Thompson Sampling algorithm and implemented it
         Visualized the results using Histogram
