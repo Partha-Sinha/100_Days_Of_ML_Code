@@ -112,3 +112,11 @@
     Imported datasets for Apriori and Eclat Algorithms respectively
     Trained the datasets for Apriori and Eclat Algorithms respectively
     Visualized and fitted the results for Apriori and Eclat Algorithms respectively
+    
+## Day 18-
+   Studied:
+    The Multi Armed Bandid Problem
+   Implemented:
+    Imported datasets for Upper Confidence Bound
+    Hard coded the UCB algorithm and implemented it
+    Visualized the results using Histogram
