@@ -120,3 +120,16 @@
         Imported datasets for Upper Confidence Bound & Thompson Sampling algorithm
         Hard coded the UCB & Thompson Sampling algorithm and implemented it
         Visualized the results using Histogram
+
+## Day 19-
+    Importing the dataset for Natural Language Processing
+    Cleaned the texts
+    Created Bag of Words model
+    Splitted the dataset into the Training set and Test set
+    Fitted the classifier to the Training set
+    Predicted the Test set results (Naive Bayes)
+    Made the Confusion Matrix
+
+
+    
+    
