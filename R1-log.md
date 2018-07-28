@@ -129,6 +129,17 @@
     Fitted the classifier to the Training set
     Predicted the Test set results (Naive Bayes)
     Made the Confusion Matrix
+    
+## Day 20-
+    Studied:
+        About Deep Learning
+        Neurons
+        The Activation Function
+        How Neural Network works and learns
+        Gradient Descent
+        Stochastic Gradient Descent
+        Backpropagation
+        
 
 
     
