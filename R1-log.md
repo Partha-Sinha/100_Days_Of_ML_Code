@@ -139,6 +139,14 @@
         Gradient Descent
         Stochastic Gradient Descent
         Backpropagation
+       
+ ## Day 21-
+    Studied:
+        Threshold Function
+        Sigmoid Function
+        Rectifier Function
+        Hyperbolic Tangent Function
+        
         
 
 
