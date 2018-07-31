@@ -147,6 +147,13 @@
         Rectifier Function
         Hyperbolic Tangent Function
         
+ ## Day 22-
+    Implemented
+        Installed Theano, Tensorflow, Keras
+        Encoded the categorical data
+        Splitting the dataset into the Training set and Test set
+        Feature Scaling
+        
         
 
 
