@@ -33,6 +33,8 @@ X_test = sc_X.transform(X_test)
 
 # Importing the Keras Libraries and packages
 import keras
+from keras.models import Sequential
+from keras.layers import Dense
 
 # Predicting the Test set results
 y_pred =  classifier.predict(X_test)
