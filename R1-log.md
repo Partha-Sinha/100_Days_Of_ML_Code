@@ -148,11 +148,17 @@
         Hyperbolic Tangent Function
         
  ## Day 22-
-    Implemented
-        Installed Theano, Tensorflow, Keras
-        Encoded the categorical data
-        Splitting the dataset into the Training set and Test set
-        Feature Scaling
+     Installed Theano, Tensorflow, Keras
+     Encoded the categorical data
+     Splitting the dataset into the Training set and Test set
+     Feature Scaling
+        
+ ## Day 23-
+    Initialised the Artificial Neural Networks
+    Added the Input Layers and the Hidden layers and the Output Layer
+    Compiled and fitted the ANN to Training Set
+    Made Predictions Evaluating the models
+        
         
         
 
