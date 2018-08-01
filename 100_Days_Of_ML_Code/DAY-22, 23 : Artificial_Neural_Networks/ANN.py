@@ -39,6 +39,9 @@ from keras.layers import Dense
 # Initialising the ANN
 classifier = Sequential()
 
+# Adding the Input Layer and the First Hidden Layes
+classifier.add(Dense(output_dim = 6, init = 'uniform', activation = 'relu', input_dim =11))
+
 # Predicting the Test set results
 y_pred =  classifier.predict(X_test)
 
