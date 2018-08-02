@@ -158,6 +158,13 @@
     Added the Input Layers and the Hidden layers and the Output Layer
     Compiled and fitted the ANN to Training Set
     Made Predictions Evaluating the models
+    
+ ## Day 24-
+    Studied about Convolutional Neural Networks
+        - Convolution
+        - Max Pooling
+        - Flattening
+        - Full Connection
         
         
         
