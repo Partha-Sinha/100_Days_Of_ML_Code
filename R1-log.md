@@ -166,6 +166,15 @@
         - Flattening
         - Full Connection
         
+ ## Day 25-
+    Initialised the CNN
+    Step 1 - Convolution
+    Step 2 - Maxpooling
+    Step 3 - Flattening
+    Step 4 - Full Connections
+    Compiled the CNN
+    Fitted the CNN to the images
+        
         
         
 
