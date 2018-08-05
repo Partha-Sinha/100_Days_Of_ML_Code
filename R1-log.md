@@ -174,10 +174,8 @@
     Step 4 - Full Connections
     Compiled the CNN
     Fitted the CNN to the images
-        
-        
-        
-
-
-    
-    
+ 
+ ## Day 26-
+    Trained and predicted results of 10000 image dataset on CNN
+    Applied Principal Component Analysis on logistic regression
+    Predicted and graphically represented the results
