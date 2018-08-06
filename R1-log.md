@@ -179,3 +179,9 @@
     Trained and predicted results of 10000 image dataset on CNN
     Applied Principal Component Analysis on logistic regression
     Predicted and graphically represented the results
+    
+ ## Day 27-
+    Applied Linear Discriminant Analysis on logistic regression
+    Predicted and graphically represented the results
+    Applied Principal Component Analysis on logistic regression
+    Predicted and graphically represented the results
