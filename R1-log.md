@@ -183,5 +183,5 @@
  ## Day 27-
     Applied Linear Discriminant Analysis on logistic regression
     Predicted and graphically represented the results
-    Applied Principal Component Analysis on logistic regression
+    Applied Kernel-PCA on logistic regression
     Predicted and graphically represented the results
