@@ -185,3 +185,8 @@
     Predicted and graphically represented the results
     Applied Kernel-PCA on logistic regression
     Predicted and graphically represented the results
+    
+ ## Day 28-
+    Applied k-Fold Cross Validation
+    Applied Grid Search to find the best model and the best parameters
+    Fitted XGBoost to the Training set to find optimum predictions
