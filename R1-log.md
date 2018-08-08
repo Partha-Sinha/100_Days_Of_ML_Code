@@ -190,3 +190,11 @@
     Applied k-Fold Cross Validation
     Applied Grid Search to find the best model and the best parameters
     Fitted XGBoost to the Training set to find optimum predictions
+    
+ ## Day 29-
+    Evaluating the ANN
+    Improving the ANN
+    Tuning the ANN
+    Evaluating the CNN
+    Improving the CNN
+    Tuning the CNN
