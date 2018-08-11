@@ -198,3 +198,10 @@
     Evaluating the CNN
     Improving the CNN
     Tuning the CNN
+
+ ## Day 30-
+    Studied
+        - Recurrent Neural Networks
+        - Vanishing Gradient Problem
+        - Long Short Term Memory
+        - LSTM Variants
