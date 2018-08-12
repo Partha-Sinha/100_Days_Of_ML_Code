@@ -205,3 +205,9 @@
         - Vanishing Gradient Problem
         - Long Short Term Memory
         - LSTM Variants
+
+ ## Day 31-
+    Imported and reshaped Training set
+    Initialised and complied the RNN
+    Fitted the RNN to the training set
+    Visualised the Stock Prediction Results
