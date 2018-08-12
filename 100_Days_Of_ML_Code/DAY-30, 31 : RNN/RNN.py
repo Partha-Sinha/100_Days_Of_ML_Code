@@ -39,3 +39,14 @@ regressor.compile(optimizer = 'adam', loss = 'mean_squared_error')
 
 # Fitting the RNN to the training set
 regressor.fit(X_train, y_train, batch_size = 32, epochs = 200)
+
+# Getting the real stock price of 2017
+test_set = pd.read_csv('Google_Stock_Price_Test.csv')
+real_stock_price = test_set.iloc[:, 1:2].values
+
+# Getting the predicited stock price of 2017
+inputs = real_stock_price
+inputs = sc.transform(inputs)
+inputs = np.reshape(inputs, (20, 1, 1))
+predicted_stock_price = regressor.predict(inputs)
+predicted_stock_price = sc.inverse_transform(predicted_stock_price)
