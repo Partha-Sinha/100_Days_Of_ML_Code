@@ -208,6 +208,6 @@
 
  ## Day 31-
     Imported and reshaped Training set
-    Initialised and complied the RNN
+    Initialised and compiled the RNN
     Fitted the RNN to the training set
     Visualised the Stock Prediction Results
