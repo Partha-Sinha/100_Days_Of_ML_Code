@@ -211,3 +211,11 @@
     Initialised and compiled the RNN
     Fitted the RNN to the training set
     Visualised the Stock Prediction Results
+   
+ ## Day 32-
+    Evaluated the RNN
+    Improved the RNN
+    Tuned the RNN
+    Studied Self Organizing Maps
+    Learnt how to read advanced SOM
+    
