@@ -1,4 +1,4 @@
-# SOM
+# Self Organizing Map
 
 # Importing the libraries
 import numpy as np
@@ -37,3 +37,9 @@ for i, x in enumerate(X):
          markerfacecolor = 'None',
          markersize = 10,
          markeredgewidth = 2)
+show()
+
+# Finding the frauds
+mappings = som.win_map(X)
+frauds = np.concatenate((mappings[(8,1)], mappings[(6,8)]), axis = 0)
+frauds = sc.inverse_transform(frauds)
