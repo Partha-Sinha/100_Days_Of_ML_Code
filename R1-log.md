@@ -219,3 +219,8 @@
     Studied Self Organizing Maps
     Learnt how to read advanced SOM
     
+ ## Day 33 [Fraud Detection] -
+    Imported and Feature scaled the dataset for SOM
+    Trained the SOM
+    Visualized the results
+    Found the frauds from the results
