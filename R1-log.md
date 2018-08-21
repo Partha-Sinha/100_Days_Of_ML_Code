@@ -224,3 +224,13 @@
     Trained the SOM
     Visualized the results
     Found the frauds from the results
+    
+ ## Day 34
+    Implemented a Hybrid Deep Learning Model (SOM & ANN)
+    Studied:
+    - Boltzmann Machines
+    - Energy Based Models
+    - Restricted Boltzmann Machines
+    - Contrastive Divergence
+    - Deep Belief Networks
+    - Deep Boltzmann Machines
