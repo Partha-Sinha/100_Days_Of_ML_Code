@@ -234,3 +234,11 @@
     - Contrastive Divergence
     - Deep Belief Networks
     - Deep Boltzmann Machines
+ 
+ ## Day 35 [Movie Prediction System]
+    Imported the dataset
+    Prepared Training set and Test set
+    Extracted number of users and movies
+    Converted data into an array with users in lines and movies in columns
+    Converted the data into Torch tensors
+    
