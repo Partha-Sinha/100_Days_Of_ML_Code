@@ -52,6 +52,12 @@ test_set[test_set == 1] = 0
 test_set[test_set == 2] = 0
 test_set[test_set >= 3] = 1
 
+# Creating the architecture of the Neural Network
+class RBM():
+    def __init__(self, nv, nh):
+        self.W = torch.randn(nh, nv)
+        self.a = torch.randn(1, nh)
+        self.b = torch.randn(1, nv)
 
 
 
