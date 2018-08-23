@@ -235,10 +235,16 @@
     - Deep Belief Networks
     - Deep Boltzmann Machines
  
- ## Day 35 [Movie Prediction System]
+ ## Day 35 [Movie Prediction System (Boltzmann Machines) - part 1]
     Imported the dataset
     Prepared Training set and Test set
     Extracted number of users and movies
     Converted data into an array with users in lines and movies in columns
     Converted the data into Torch tensors
+  
+ ## Day 36 [Movie Prediction System (Boltzmann Machines) - part 2]
+    Created the architecture of the Neural Network
+    Trained the Restricted Boltzmann Machines
+    Tested the Restricted Boltzmann Machines
+
     
