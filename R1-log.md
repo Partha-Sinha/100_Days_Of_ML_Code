@@ -247,4 +247,9 @@
     Trained the Restricted Boltzmann Machines
     Tested the Restricted Boltzmann Machines
 
-    
+ ## Day 37 
+    Studied Generative Adversarial Networks
+    Set the Hyperparameters and Transformations
+    Defined the weights_init function
+    Defined and created the generator & discriminator
+    Trained the DCGANs and generated images
