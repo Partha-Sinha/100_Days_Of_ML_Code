@@ -258,8 +258,8 @@
     Studied about Auto Encoders
     Sparse Autoencoders
     Denoising Autoencoders
-    Ctractive Autoencoders
-    stacked Autoencoders
+    Contractive Autoencoders
+    Stacked Autoencoders
     Deep Autoencoders
     
     
