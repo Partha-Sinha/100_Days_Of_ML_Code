@@ -253,3 +253,13 @@
     Defined the weights_init function
     Defined and created the generator & discriminator
     Trained the DCGANs and generated images
+    
+ ## Day 38
+    Studied about Auto Encoders
+    Sparse Autoencoders
+    Denoising Autoencoders
+    Ctractive Autoencoders
+    stacked Autoencoders
+    Deep Autoencoders
+    
+    
