@@ -262,4 +262,9 @@
     Stacked Autoencoders
     Deep Autoencoders
     
-    
+ ## Day 39 [Deep Learning Chatbot]
+    Studied about:
+        Seq2Seq Architecture
+        Seq2seq Training
+        Beam Search Decoding
+        Attention Mechanism
