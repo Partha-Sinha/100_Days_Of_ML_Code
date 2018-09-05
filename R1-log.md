@@ -268,3 +268,7 @@
         Seq2seq Training
         Beam Search Decoding
         Attention Mechanism
+        
+ ## Day 40 [Deep Learning Chatbot]
+    Imported the dataset and preprocessed and cleaned the dataset
+    Built different dictionaries for seq2seq model
